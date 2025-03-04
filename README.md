@@ -29,12 +29,17 @@ IR_Project/
 │── Task_3_Text_Clustering/        
 │   ├── TASK_3_Text_Clustering.ipynb
 │   ├── README.md                  
+│── Dataset.zip
 │── Project Report.pdf
 │── README.md                     # Main README
 
 ## 📂 Dataset
 This project uses a dataset of 57 text files.  
-📥 **Download the dataset:** [dataset.zip](dataset/dataset.zip)  
+📥 **Download the dataset:** [Dataset.zip](dataset/Dataset.zip)  
 To extract it, use:  
 ```bash
-unzip dataset.zip -d dataset/
+unzip Dataset.zip -d dataset/
+
+## 📑 **Project Report**  
+For a detailed explanation of the methodology, results, and analysis, refer to the **full project report**:  
+📄 **[Project Report.pdf](Project%20Report.pdf)**
