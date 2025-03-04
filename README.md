@@ -42,4 +42,4 @@ unzip Dataset.zip -d dataset/
 
 ## 📑 **Project Report**  
 For a detailed explanation of the methodology, results, and analysis, refer to the **full project report**:  
-📄 **[Project Report.pdf](Project%20Report.pdf)**
+📄 **![Project Report.pdf](Project Report.pdf)**
