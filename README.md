@@ -1,5 +1,5 @@
-# Information Retrieval Project 🔍📄
-**Authors:** Anat Elashvili, Daniel Polster, Hadar Barak  
+# Information Retrieval Project 🔍📄  
+**Authors:** Anat Elashvili  
 **University:** University of Haifa  
 **Course:** Information Retrieval  
 
@@ -11,36 +11,23 @@ This project is a **comprehensive study in Information Retrieval (IR)**, explori
 2. **Text Classification** – Categorizing texts using machine learning classifiers.  
 3. **Text Clustering** – Applying unsupervised learning to group similar texts.  
 
-This project provides hands-on experience in NLP, machine learning, and text analysis, following state-of-the-art methodologies.
+This project provides hands-on experience in **NLP, machine learning, and text analysis**, following state-of-the-art methodologies.
 
 ---
 
-## 🏅 **Badges**  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)  
-![NLTK](https://img.shields.io/badge/NLTK-NLP-green)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
-
-## 🎯 **Features**
-- **Preprocessing techniques**: Tokenization, Stop Words removal, Case Folding, Stemming.
-- **Machine learning models**: Naïve Bayes, SVM, Rocchio, KNN.
-- **K-Means clustering** for text grouping.
-- **Evaluation metrics**: Accuracy, F1-score, Adjusted Rand Index, Homogeneity & Completeness.
-- **Data Visualization**: PCA, LSA, Word Probability Distribution.
-
----
-
-## 📸 **Visuals**  
-### **Word Probability Distribution Before and After Preprocessing**
-Before removing stop words | After removing stop words
-:-------------------------:|:-------------------------:
-![Before Processing](https://via.placeholder.com/400) | ![After Processing](https://via.placeholder.com/400)  
-
-### **PCA & LSA Clustering Visualizations**
-LSA-based Clustering | PCA-based Clustering
-:-------------------------:|:-------------------------:
-![LSA](https://via.placeholder.com/400) | ![PCA](https://via.placeholder.com/400)  
-
----
+## 🎯 **Project Structure**  
+```plaintext
+IR_Project/
+│── images/                        # Visuals & Plots
+│── Task_1_Language_Modeling/      
+│   ├── TASK_1_Language_Modeling.ipynb
+│   ├── README.md                  
+│── Task_2_Text_Classification/    
+│   ├── TASK_2_Text_Classification.ipynb
+│   ├── README.md                  
+│── Task_3_Text_Clustering/        
+│   ├── TASK_3_Text_Clustering.ipynb
+│   ├── README.md                  
+│── IR_Project_Report.pdf
+│── stop_words_english.txt
+│── README.md                     # Main README
