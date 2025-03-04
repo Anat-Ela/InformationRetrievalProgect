@@ -31,3 +31,10 @@ IR_Project/
 │   ├── README.md                  
 │── IR_Project_Report.pdf
 │── README.md                     # Main README
+
+## 📂 Dataset
+This project uses a dataset of 57 text files.  
+📥 **Download the dataset:** [dataset.zip](dataset/dataset.zip)  
+To extract it, use:  
+```bash
+unzip dataset.zip -d dataset/
