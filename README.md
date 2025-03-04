@@ -21,6 +21,7 @@ IR_Project/
 │── images/                        # Visuals & Plots
 │── Task_1_Language_Modeling/      
 │   ├── TASK_1_Language_Modeling.ipynb
+│   ├── stop_words_english.txt
 │   ├── README.md                  
 │── Task_2_Text_Classification/    
 │   ├── TASK_2_Text_Classification.ipynb
@@ -29,5 +30,4 @@ IR_Project/
 │   ├── TASK_3_Text_Clustering.ipynb
 │   ├── README.md                  
 │── IR_Project_Report.pdf
-│── stop_words_english.txt
 │── README.md                     # Main README
