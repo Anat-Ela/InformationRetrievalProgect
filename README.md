@@ -29,7 +29,7 @@ IR_Project/
 │── Task_3_Text_Clustering/        
 │   ├── TASK_3_Text_Clustering.ipynb
 │   ├── README.md                  
-│── IR_Project_Report.pdf
+│── Project Report.pdf
 │── README.md                     # Main README
 
 ## 📂 Dataset
