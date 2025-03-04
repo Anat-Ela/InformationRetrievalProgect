@@ -13,12 +13,12 @@ To observe how linguistic operations impact the size of vocabulary and frequency
 ---
 
 ## 📊 **Results**  
-| Preprocessing Step | Vocabulary Size | Total Words |
-|-------------------|----------------|-------------|
-| **Raw Data** | 37,408 | 494,900 |
-| **Stop Words Removed** | 36,191 | 263,856 |
-| **Case Folding** | 31,134 | 263,856 |
-| **Stemming** | 24,045 | 263,856 |
+| Preprocessing Step | Vocabulary Size | Words Distribution | Total Words  |
+|-------------------|----------------|-------------|-------------|
+| **Raw Data** | 37,408 |![Initial](../images/initial_words_distribution.png)| 494,900 |
+| **Stop Words Removed** | 36,191 |![Lowercased](../images/word_distribution_after_lower_case.png)| 263,856 |
+| **Case Folding** | 31,134 |![Without Stop Words](../images/word_distribution_after_removing_sw.png)| 263,856 |
+| **Stemming** | 24,045 |![Stemmed](../images/word_distribution_after_stemming.png)| 263,856 |
 
 ---
 
